@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&weight=800&size=42&duration=1&pause=999999&color=E53935&center=true&vCenter=true&repeat=false&width=400&height=70&lines=ZULZUL" alt="ZULZUL" /> ZULZUL</h1>
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&weight=800&size=42&duration=1&pause=999999&color=E53935&center=true&vCenter=true&repeat=false&width=400&height=70&lines=ZULZUL" alt="ZULZUL" /> </h1>
 
 <p align="center">
   <strong>INFORMATION SYSTEMS STUDENT · ASPIRING DEVELOPER</strong>
