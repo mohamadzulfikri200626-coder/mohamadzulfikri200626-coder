@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ZulZul!
+# 👋 Hi minasan, I'm ZulZul!
 
 🎓 Information Systems Student at UPN Veteran Jakarta
 💻 Aspiring Developer | Learning by Building
